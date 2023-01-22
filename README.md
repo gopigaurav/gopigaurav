@@ -1,5 +1,5 @@
 <div align="middle" height="300" style={overflow: "hidden"}>
-<img align="middle" alt="Coding" width="700"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrSjU64C_q0hD7HAYX5oI_gw71uUNtkMJQcw&usqp=CAU"/>
+<img align="middle" alt="Coding" width="700"  src="https://raw.githubusercontent.com/gopigaurav/gopigaurav/main/images%20(1).jpg"/>
 </div>
 <h1 align="center">Hi 👋, I'm T C Gopal (gopi)</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
