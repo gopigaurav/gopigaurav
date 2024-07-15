@@ -7,8 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopigaurav&label=Profile%20views&color=0e75b6&style=flat" alt="gopigaurav" /> </p>
 
-- 👨‍💻 All of my projects are available [here](https://personal-portfoio-new-l8xa.vercel.app/)
+- 👨‍💻 My Personal Portfoio [here](https://personal-portfoio-new-l8xa.vercel.app/)
 - Older website [here](https://gopisresume.netlify.app)
+- My Resume is available [here](https://drive.google.com/file/d/1jT_HGL32Y65A6fM9iOofOpeVmpJjjOfc/view?usp=sharing)
 
 - 📫 How to reach me **gopigaurav9@gmail.com**
 
