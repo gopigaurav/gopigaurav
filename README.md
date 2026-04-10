@@ -1,81 +1,85 @@
 <div align="center">
-  <img src="https://i.imgur.com/8N69vXz.png" alt="T C Gopal // Software Engineer" width="100%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=280&section=header&text=T%20C%20Gopal&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20II%20@%20Nike%20|%20Systems%20&%20Infrastructure%20Architect&descAlignY=62&descSize=22&fontColor=4fd1c5" width="100%" />
 
   <br/>
-  <br/>
 
-  # 🚀 T C Gopal (Gopi)
-  ### **Systems Architect | Cloud-Native & Backend Expert**
-  *Bridging Robust Infrastructure with Immersive Digital Experiences.*
+  ### ⚡ Orchestrating Scalable Systems & Intelligence
+  **4+ Years Experience in SaaS, Cloud Infrastructure, and Agentic AI**
 
   <p align="center">
-    <a href="https://gopal-personal-portforlio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/t-c-gopal-06a961166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://drive.google.com/file/d/1jT_HGL32Y65A6fM9iOofOpeVmpJjjOfc/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Resume-E24329?style=flat-square&logo=git&logoColor=white" alt="Resume" /></a>
-    <a href="https://leetcode.com/gopigaurav/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://gopal-personal-portforlio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D9488?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/t-c-gopal-06a961166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/gopigaurav/" target="_blank"><img src="https://img.shields.io/badge/-1200+--Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=gopigaurav&label=Profile%20Connections&color=0e75b6&style=flat-square" alt="Views" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=gopigaurav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
 </div>
 
 ---
 
-### 💻 Profile Summary
-I am a senior Software Engineer based in India, dedicated to engineering high-performance, resilient distributed systems and optimizing cloud infrastructure. I thrive at the intersection of complex backend architecture and emerging frontend visualization tech.
+### 🚀 About Me
+I am a **Backend & Infrastructure Engineer** dedicated to building high-performance, resilient distributed systems. My work at **Nike** involves architecting HLDs for massive data migrations (10-50TB) and automating production release cycles. I thrive at the intersection of robust backend principles and the evolving world of **Generative AI**.
 
-- 🔭 **Core Focus**: Designing and scaling high-throughput event-driven microservices using **Kafka** and **Go/Java**.
-- ☁️ **Infrastructure**: Advanced Kubernetes orchestration, Service Mesh, and GitOps workflows.
-- 🎨 **Passion Project**: Deepening expertise in WebGL/3D performance visualization using **Three.js**.
-- 🤝 **Collaborate**: Open to challenging backend/infra problems and innovative tech initiatives.
+* 🤖 **AI/ML Focus**: Engineering **Agentic AI** interfaces, Model Context Protocols (MCP), and advanced RAG architectures.
+* ☁️ **Infrastructure**: Advanced Kubernetes orchestration, Kafka performance tuning, and GitOps workflows.
+* 🏆 **Impact**: Recognized by Nike Leadership for reducing manual intervention by **70%** and by Shipthis CEO for driving global subscription growth.
 
 ---
 
-### 🛠️ Core Technology Stack
+### 🏗️ Featured Engineering Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Agentic Bridge](https://github.com/gopigaurav/Agentic_bridge)** | LLMs, Node.js | An MVP agentic interface automating multi-step workflows with stateful execution and dry-run safety. |
+| **Cloud-Native Kafka** | K8s, Terraform, ArgoCD | A fully automated Kafka platform utilizing GitOps workflows for high-throughput event streaming. |
+| **Custom CI/CD Engine** | Go, Kubernetes, Helm | A high-performance, Jenkins-inspired CI/CD tool built for automated container build/deploy cycles. |
+
+---
+
+### 🛠️ Technical Arsenal
 
 <div align="center">
 
-| | Technologies |
-|---|---|
-| **Programming Languages** | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Backend & Messaging** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-white?style=flat-square&logo=grpc&logoColor=4285F4) |
-| **Cloud & DevOps** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Frontend & 3D** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-white?style=flat-square&logo=three.js&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white) |
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Infra & Cloud** | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **Data & AI** | ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![LLMs](https://img.shields.io/badge/-Agentic%20AI-000000?style=flat-square) |
 
 </div>
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Activity
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gopigaurav&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gopigaurav&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&title_color=4fd1c5&icon_color=4fd1c5" alt="Top Languages" width="100%" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=gopigaurav&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopigaurav&theme=vision-friendly-dark&hide_border=true" alt="Streak Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=gopigaurav&show_icons=true&locale=en&theme=dark&hide_border=true&title_color=4fd1c5&icon_color=4fd1c5&count_private=true" alt="GitHub Stats" width="100%" />
       </td>
     </tr>
   </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopigaurav&theme=dark&hide_border=true&stroke=4fd1c5&ring=4fd1c5&fire=4fd1c5" width="100%" />
 </div>
 
 ---
 
+### 🏆 Key Career Milestones
+* **Nike SE2:** Architected migration systems for 50TB+ data workloads and cut launch cycle times by **25%** via Kafka/Lambda orchestration.
+* **Shipthis Recognition:** Built an in-house "One-Click" Customs Compliance feature using direct TCP connections, increasing customer adoption by **60%**.
+* **Community:** Active technical writer and content creator helping engineers master **DSA patterns** and **High-Level System Design**.
+
+---
+
 ### 📩 Let's Connect
+* 📧 **Email:** [gopigaurav9@gmail.com](mailto:gopigaurav9@gmail.com)
+* 📍 **Location:** Bengaluru, India
+* 💬 **Ask me about:** Distributed systems, MLOps lifecycles, or WebGL/3D rendering performance.
 
-I am always interested in discussing complex distributed systems, Kafka internals, or unique WebGL rendering challenges. The quickest way to reach me is via email.
-
-<p align="left">
-  <a href="mailto:gopigaurav9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/t-c-gopal-06a961166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
+</div>
