@@ -1,38 +1,40 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=280&section=header&text=T%20C%20Gopal&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20II%20@%20Nike%20|%20Systems%20&%20Infrastructure%20Architect&descAlignY=62&descSize=22&fontColor=4fd1c5" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=0d1117&height=280&section=header&text=T%20C%20Gopal&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20II%20@%20Nike%20|%20Backend%20&%20Infrastructure%20Architect&descAlignY=62&descSize=22&fontColor=4fd1c5" width="100%" />
 
   <br/>
 
-  ### ⚡ Orchestrating Scalable Systems & Intelligence
-  **4+ Years Experience in SaaS, Cloud Infrastructure, and Agentic AI**
+  <h1>Hi 👋, I'm T C Gopal (Gopi)</h1>
+  ### **A passionate Software Engineer from India**
+  *Specializing in High-Scale Systems, Cloud Infrastructure, and Agentic AI*
 
   <p align="center">
-    <a href="https://gopal-personal-portforlio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0D9488?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://gopal-personal-portforlio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Brand%20New%20Portfolio-0D9488?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/t-c-gopal-06a961166/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/gopigaurav/" target="_blank"><img src="https://img.shields.io/badge/-1200+--Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=gopigaurav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=gopigaurav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="gopigaurav" /> 
+  </p>
 </div>
 
 ---
 
-### 🚀 About Me
-I am a **Backend & Infrastructure Engineer** dedicated to building high-performance, resilient distributed systems. My work at **Nike** involves architecting HLDs for massive data migrations (10-50TB) and automating production release cycles. I thrive at the intersection of robust backend principles and the evolving world of **Generative AI**.
-
-* 🤖 **AI/ML Focus**: Engineering **Agentic AI** interfaces, Model Context Protocols (MCP), and advanced RAG architectures.
-* ☁️ **Infrastructure**: Advanced Kubernetes orchestration, Kafka performance tuning, and GitOps workflows.
-* 🏆 **Impact**: Recognized by Nike Leadership for reducing manual intervention by **70%** and by Shipthis CEO for driving global subscription growth.
+### 🚀 Quick Links & Resume
+- 🌐 **Brand New Portfolio:** [Check it out here](https://gopal-personal-portforlio.vercel.app/)
+- 👨‍💻 **Personal Portfolio:** [Secondary link](https://personal-portfoio-new-l8xa.vercel.app/)
+- 📄 **My Resume:** [Download PDF](https://drive.google.com/file/d/1jT_HGL32Y65A6fM9iOofOpeVmpJjjOfc/view?usp=sharing)
+- 🕸️ **Older Website:** [Archive](https://gopisresume.netlify.app)
+- 📫 **How to reach me:** **gopigaurav9@gmail.com**
 
 ---
 
-### 🏗️ Featured Engineering Projects
+### 💻 About Me
+I am a **Software Engineer II at Nike** with 4+ years of experience contributing to large-scale SaaS products. I specialize in the full lifecycle of microservices—from HLD/LLD design to production-scale GitOps.
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **[Agentic Bridge](https://github.com/gopigaurav/Agentic_bridge)** | LLMs, Node.js | An MVP agentic interface automating multi-step workflows with stateful execution and dry-run safety. |
-| **Cloud-Native Kafka** | K8s, Terraform, ArgoCD | A fully automated Kafka platform utilizing GitOps workflows for high-throughput event streaming. |
-| **Custom CI/CD Engine** | Go, Kubernetes, Helm | A high-performance, Jenkins-inspired CI/CD tool built for automated container build/deploy cycles. |
+* 🤖 **GenAI Enthusiast:** Building **Agentic AI** interfaces and exploring MCPs (Model Context Protocol).
+* ☁️ **Infrastructure:** Architecting migration systems for **50TB+** data workloads and tuning **Kafka** performance.
+* 🏆 **Impact:** Recognized by **Nike Leadership** and **Shipthis CEO** for driving major architectural wins and subscription growth.
 
 ---
 
@@ -68,17 +70,11 @@ I am a **Backend & Infrastructure Engineer** dedicated to building high-performa
 
 ---
 
-### 🏆 Key Career Milestones
-* **Nike SE2:** Architected migration systems for 50TB+ data workloads and cut launch cycle times by **25%** via Kafka/Lambda orchestration.
-* **Shipthis Recognition:** Built an in-house "One-Click" Customs Compliance feature using direct TCP connections, increasing customer adoption by **60%**.
-* **Community:** Active technical writer and content creator helping engineers master **DSA patterns** and **High-Level System Design**.
-
----
-
-### 📩 Let's Connect
-* 📧 **Email:** [gopigaurav9@gmail.com](mailto:gopigaurav9@gmail.com)
-* 📍 **Location:** Bengaluru, India
-* 💬 **Ask me about:** Distributed systems, MLOps lifecycles, or WebGL/3D rendering performance.
+### 🔗 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/t-c-gopal-06a961166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:gopigaurav9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
